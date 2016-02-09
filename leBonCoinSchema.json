@@ -1,0 +1,12 @@
+{
+	"title": "leBonCoinSchema",
+	"type": "object",
+	"properties": {
+		"town": "string",
+		"zip": "string",
+		"type": "string",
+		"room": "integer",
+		"price": "integer",
+		"surface": "integer"	
+	}
+}
